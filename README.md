@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+- 🌱 I’m currently learning Swift and JavaScript
+- 📫 How to reach me: https://www.linkedin.com/in/osmanesad/
 
 <!--
 **osmanesad/osmanesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
