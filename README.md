@@ -2,10 +2,10 @@
 - 🌱 I’m currently learning Swift and JavaScript
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/osmanesad/)
 - 🎨 Design Works: [behance](https://www.behance.net/osmanesad)
-- 🎨 Design Works: [artstation] (https://www.artstation.com/masondase)
+- 🎨 Art Works: [artstation](https://www.artstation.com/masondase)
 - 📜 Blog: [medium](https://medium.com/@osmanesad)
 - 📷 Photos: [vsco](https://vsco.co/osmanesad/gallery)
-- 📷 Photos: [instagram] (https://www.instagram.com/masondase/)
+- 📷 Photo Blog: [instagram](https://www.instagram.com/masondase/)
 
 <!--
 **osmanesad/osmanesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
