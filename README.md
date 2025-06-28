@@ -1,11 +1,11 @@
 ### Hello there 👋
-- 🌱 I’m currently learning Swift and JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/osmanesad/)
-- 🎨 Design Works: [behance](https://www.behance.net/osmanesad)
-- 🎨 Art Works: [artstation](https://www.artstation.com/masondase)
+- 📐 Designs: [behance](https://www.behance.net/osmanesad)
+- 🎨 Sketchs : [artstation](https://www.artstation.com/masondase)
 - 📜 Blog: [medium](https://medium.com/@osmanesad)
-- 📷 Photos: [vsco](https://vsco.co/osmanesad/gallery)
-- 📷 Photo Blog: [instagram](https://www.instagram.com/masondase/)
+- 📷 Photo : [vsco](https://vsco.co/osmanesad/gallery)
+- 📹 Photo Blog: [instagram](https://www.instagram.com/masondase/)
 
 <!--
 **osmanesad/osmanesad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
