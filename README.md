@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hello there 👋🏻
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/osmanesad/)
 - 📐 Designs: [behance](https://www.behance.net/osmanesad)
-- 🎨 Sketchs : [artstation](https://www.artstation.com/masondase)
+- 🎨 Sketchs: [artstation](https://www.artstation.com/masondase)
 - 📜 Blog: [medium](https://medium.com/@osmanesad)
-- 📷 Photo : [vsco](https://vsco.co/osmanesad/gallery)
+- 📷 Photos: [vsco](https://vsco.co/osmanesad/gallery)
 - 📹 Photo Blog: [instagram](https://www.instagram.com/masondase/)
 
 <!--
