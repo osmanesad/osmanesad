@@ -1,65 +1,77 @@
 ```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=90&section=header&text=&fontSize=0" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
 <h1 align="center">
 ```
-osmanesad
+Osman Esad
 ```{=html}
 </h1>
 ```
 ```{=html}
 <p align="center">
 ```
-building quietly.
+Design • Code • Coffee • Independent Making
 ```{=html}
 </p>
 ```
 
 ------------------------------------------------------------------------
 
-### who am i?
+### About
 
-I work between **code, design and real-world spaces**.
+I build things at the intersection of **technology, design and physical
+space**.
 
-Sometimes it's a small script.\
-Sometimes it's a brand idea.\
-Sometimes it's just a table, a chair and good coffee.
+Currently focused on: - Developing small but meaningful software tools\
+- Exploring Python for data-driven workflows\
+- Building independent ideas around coffee & physical environments\
+- Creating visual work through photography, drawing and spatial thinking
 
-I like building tools that are: - simple - usable - not overengineered -
-long-lasting
-
-------------------------------------------------------------------------
-
-### currently
-
-    learning:   python (automation / data thinking)
-    building:   small tracking tools & experiments
-    exploring:  how digital systems support physical businesses
-    designing:  identity, objects, spaces
+I like slow processes, clear systems and things that age well.
 
 ------------------------------------------------------------------------
 
-### stack (growing slowly, intentionally)
+### Current Direction
 
-    Python
-    Swift (past work)
-    Firebase / Supabase (experiments)
-    Basic Web
-
-No rush. Just depth.
+-   Learning → **Python & practical automation**
+-   Building → **Stock / data tracking tools**
+-   Exploring → **How digital systems support physical businesses**
+-   Designing → **Identity, objects and spaces**
 
 ------------------------------------------------------------------------
 
-### elsewhere on the internet
+### Elsewhere
 
--   linkedin → https://www.linkedin.com/in/osmanesad/
--   behance → https://www.behance.net/osmanesad
--   art → https://www.artstation.com/masondase
--   writing → https://medium.com/@osmanesad
--   photos → https://vsco.co/osmanesad/gallery
--   daily → https://www.instagram.com/masondase/
+-   💼 https://www.linkedin.com/in/osmanesad/
+-   📐 https://www.behance.net/osmanesad
+-   🎨 https://www.artstation.com/masondase
+-   📜 https://medium.com/@osmanesad
+-   📷 https://vsco.co/osmanesad/gallery
+-   📹 https://www.instagram.com/masondase/
 
 ------------------------------------------------------------------------
 
-### philosophy
+### Stack
+
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Python-222222?style=flat&logo=python&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Swift-222222?style=flat&logo=swift&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Firebase-222222?style=flat&logo=firebase&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Supabase-222222?style=flat&logo=supabase&logoColor=white"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+### Philosophy
 
 > build less. build better.
 
@@ -68,8 +80,15 @@ No rush. Just depth.
 ```{=html}
 <p align="center">
 ```
-this is not a portfolio.\
-it's a workspace.
+`<img src="https://github-readme-stats.vercel.app/api?username=osmanesad&show_icons=false&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444" />`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<i>`{=html}This is not a portfolio. It's an evolving
+workspace.`</i>`{=html}
 ```{=html}
 </p>
 ```
