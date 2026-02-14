@@ -28,9 +28,9 @@ I build things at the intersection of **technology, design and physical
 space**.
 
 Currently focused on: - Developing small but meaningful software tools\
-- Exploring Python for data-driven workflows\
+- Exploring Python for practical workflows\
 - Building independent ideas around coffee & physical environments\
-- Creating visual work through photography, drawing and spatial thinking
+- Creating visual work through photography and drawing
 
 I like slow processes, clear systems and things that age well.
 
@@ -38,10 +38,10 @@ I like slow processes, clear systems and things that age well.
 
 ### Current Direction
 
--   Learning → **Python & practical automation**
--   Building → **Stock / data tracking tools**
--   Exploring → **How digital systems support physical businesses**
--   Designing → **Identity, objects and spaces**
+-   Learning → Python & automation\
+-   Building → Small tracking tools\
+-   Exploring → Digital systems for physical businesses\
+-   Designing → Identity, objects and spaces
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ I like slow processes, clear systems and things that age well.
 ```{=html}
 <p align="center">
 ```
-`<img src="https://github-readme-stats.vercel.app/api?username=osmanesad&show_icons=false&hide_border=true&bg_color=ffffff&title_color=000000&text_color=444444" />`{=html}
+`<img src="https://github-readme-stats.vercel.app/api?username=osmanesad&show_icons=false&hide_border=true" />`{=html}
 ```{=html}
 </p>
 ```
