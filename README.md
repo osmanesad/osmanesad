@@ -1,59 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=90&section=header&text=&fontSize=0" />
-</p>
+# Osman Esad
 
-<h1 align="center">Osman Esad</h1>
-
-<p align="center">
-Design • Code • Coffee • Independent Making
-</p>
+*Design · Code · Coffee*
 
 ------------------------------------------------------------------------
 
-### About
+I build small, useful things.
 
-I build things at the intersection of **technology, design and physical
-space**.
-
--   Developing small but meaningful software tools
--   Exploring Python for practical workflows
--   Thinking about how digital tools support physical places
--   Producing visual work through photography and drawing
+Currently learning and working with **Python**,\
+exploring how software can support real-world spaces and independent
+ideas.
 
 ------------------------------------------------------------------------
 
-### Current Direction
+## Now
 
--   Learning → Python & automation
--   Building → Small tracking tools
--   Designing → Identity, objects and spaces
-
-------------------------------------------------------------------------
-
-### Elsewhere
-
--   💼 <https://www.linkedin.com/in/osmanesad/>
--   📐 <https://www.behance.net/osmanesad>
--   🎨 <https://www.artstation.com/masondase>
--   📜 <https://medium.com/@osmanesad>
--   📷 <https://vsco.co/osmanesad/gallery>
--   📹 <https://www.instagram.com/masondase/>
+-   Developing small data / stock tracking tools\
+-   Studying Python through practical, daily use\
+-   Shaping the long-term structure of **DASE**\
+-   Thinking about how digital systems meet physical places
 
 ------------------------------------------------------------------------
 
-### Stack
+## Web
 
-<img src="https://img.shields.io/badge/Python-222222?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-222222?style=flat&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-222222?style=flat&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-222222?style=flat&logo=supabase&logoColor=white"/>
+-   Main → https://osmanesad.com\
+-   DASE → https://dasecoffee.co
 
 ------------------------------------------------------------------------
 
-### Philosophy
+## Elsewhere
+
+-   LinkedIn → https://www.linkedin.com/in/osmanesad/
+-   Behance → https://www.behance.net/osmanesad
+-   Art → https://www.artstation.com/masondase
+-   Medium → https://medium.com/@osmanesad
+-   VSCO → https://vsco.co/osmanesad/gallery
+-   Instagram→ https://www.instagram.com/masondase/
+
+------------------------------------------------------------------------
 
 > build less. build better.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osmanesad&show_icons=false&hide_border=true" />
-</p>
