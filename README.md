@@ -30,12 +30,12 @@ I like slow processes, clear systems and things that age well.
 
 ### Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/osmanesad/)
-- 📐 [Behance](https://www.behance.net/osmanesad)
-- 🎨 [ArtStation](https://www.artstation.com/masondase)
-- 📜 [Medium](https://medium.com/@osmanesad)
-- 📷 [VSCO](https://vsco.co/osmanesad/gallery)
-- 📹 [Instagram](https://www.instagram.com/masondase/)
+ 💼 [LinkedIn](https://www.linkedin.com/in/osmanesad/)
+ 📐 [Behance](https://www.behance.net/osmanesad)
+ 🎨 [ArtStation](https://www.artstation.com/masondase)
+ 📜 [Medium](https://medium.com/@osmanesad)
+ 📷 [VSCO](https://vsco.co/osmanesad/gallery)
+ 📹 [Instagram](https://www.instagram.com/masondase/)
 
 ---
 
