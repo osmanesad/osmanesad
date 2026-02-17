@@ -1,42 +1,50 @@
-# Osman Esad
+<h1 align="center">Osman Esad</h1>
+<p align="center">
+Design • Code • Coffee • Independent Making
+</p>
 
-*Design · Code · Coffee*
+---
 
-------------------------------------------------------------------------
+### About
 
-I build small, useful things.
+I build things at the intersection of **technology, design and physical space**.
 
-Currently learning and working with **Python**,\
-exploring how software can support real-world spaces and independent
-ideas.
+Currently focused on:
+- Developing small but meaningful software tools  
+- Exploring Python for data-driven workflows  
+- Building the identity and infrastructure of an independent coffee brand  
+- Creating visual work across photography, drawing and spatial thinking  
 
-------------------------------------------------------------------------
+I like slow processes, clear systems and things that age well.
 
-## Now
+---
 
--   Developing small data / stock tracking tools\
--   Studying Python through practical, daily use\
--   Shaping the long-term structure of **DASE**\
--   Thinking about how digital systems meet physical places
+### Current Direction
 
-------------------------------------------------------------------------
+- Learning → **Python & practical automation**
+- Building → **Stock / data tracking applications**
+- Designing → **Brand, space and object-oriented ideas**
+- Researching → **How digital tools support physical businesses**
 
-## Web
+---
 
--   Main → https://osmanesad.com\
--   DASE → https://dasecoffee.co
+### Links
 
-------------------------------------------------------------------------
+- 💼 [LinkedIn](https://www.linkedin.com/in/osmanesad/)
+- 📐 [Behance](https://www.behance.net/osmanesad)
+- 🎨 [ArtStation](https://www.artstation.com/masondase)
+- 📜 [Medium](https://medium.com/@osmanesad)
+- 📷 [VSCO](https://vsco.co/osmanesad/gallery)
+- 📹 [Instagram](https://www.instagram.com/masondase/)
 
-## Elsewhere
+---
 
--   LinkedIn → https://www.linkedin.com/in/osmanesad/
--   Behance → https://www.behance.net/osmanesad
--   Art → https://www.artstation.com/masondase
--   Medium → https://medium.com/@osmanesad
--   VSCO → https://vsco.co/osmanesad/gallery
--   Instagram→ https://www.instagram.com/masondase/
+### Philosophy
 
-------------------------------------------------------------------------
+> I prefer building small, honest systems  
+> rather than large, noisy ones.
 
-> build less. build better.
+---
+
+### Tech (Growing Stack)
+
