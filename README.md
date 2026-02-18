@@ -1,4 +1,4 @@
-<h1 align="center">Osman Esad</h1>
+<h2 align="center">osman esad</h2>
 <p align="center">
 Design • Code • Coffee • Independent Making
 </p>
