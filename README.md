@@ -1,6 +1,6 @@
 <h2 align="center">osman esad</h2>
 <p align="center">
-Design • Code • Coffee • Independent Making
+Design • Code • Coffee
 </p>
 
 ---
