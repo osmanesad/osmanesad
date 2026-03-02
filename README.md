@@ -11,7 +11,7 @@ I work at the intersection of coffee culture and digital product development —
 
 ## Now
 - Building: Dase Coffee — https://dasecoffee.co
-- Writing: https://osmanesad.medium.com
+- Writing: https://osmanesad.com
 - Code: https://github.com/osmanesad
 
 ## Links
@@ -20,3 +20,4 @@ I work at the intersection of coffee culture and digital product development —
 - ArtStation: https://www.artstation.com/masondase
 - VSCO: https://vsco.co/osmanesad/gallery
 - Instagram: https://www.instagram.com/masondase/
+- Medium: https://osmanesad.medium.com
