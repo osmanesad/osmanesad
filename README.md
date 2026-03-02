@@ -1,33 +1,22 @@
-<h2 align="center">osman esad</h2>
-<p align="center">
-Design • Code • Coffee
-</p>
+# Osman Esad
 
----
-### About
-I build things at the intersection of **technology, design and physical space**.
+Coffee · Writing · Digital products
 
-Currently focused on:
-- Developing small but meaningful software tools  
-- Exploring Python for data-driven workflows  
-- Building the identity and infrastructure of an independent coffee brand  
-- Creating visual work across photography, drawing and spatial thinking  
+I work at the intersection of coffee culture and digital product development — building simple systems, brands, and tools that support real spaces.
 
----
-### Current Direction
-- Learning → **Python & practical automation**
-- Building → **Stock / data tracking applications**
-- Designing → **Brand, space and object-oriented ideas**
-- Researching → **How digital tools support physical businesses**
+## Focus
+- Coffee: concept, operations, and experience
+- Digital: lightweight products, prototypes, automation
+- Brand: naming, visual language, small printed goods
 
----
-### Links
- 💼 [LinkedIn](https://www.linkedin.com/in/osmanesad/)
- 📐 [Behance](https://www.behance.net/osmanesad)
- 🎨 [ArtStation](https://www.artstation.com/masondase)
- 📜 [Medium](https://medium.com/@osmanesad)
- 📷 [VSCO](https://vsco.co/osmanesad/gallery)
- 📹 [Instagram](https://www.instagram.com/masondase/)
+## Now
+- Building: Dase Coffee — https://dasecoffee.co
+- Writing: https://osmanesad.medium.com
+- Code: https://github.com/osmanesad
 
-
-
+## Links
+- LinkedIn: https://www.linkedin.com/in/osmanesad/
+- Behance: https://www.behance.net/osmanesad
+- ArtStation: https://www.artstation.com/masondase
+- VSCO: https://vsco.co/osmanesad/gallery
+- Instagram: https://www.instagram.com/masondase/
