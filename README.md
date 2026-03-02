@@ -1,6 +1,4 @@
-# Osman Esad
-
-Coffee · Writing · Digital products
+Coffee · Writing · Code
 
 I work at the intersection of coffee culture and digital product development — building simple systems, brands, and tools that support real spaces.
 
@@ -15,9 +13,9 @@ I work at the intersection of coffee culture and digital product development —
 - Code: https://github.com/osmanesad
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/osmanesad/
-- Behance: https://www.behance.net/osmanesad
-- ArtStation: https://www.artstation.com/masondase
-- VSCO: https://vsco.co/osmanesad/gallery
-- Instagram: https://www.instagram.com/masondase/
-- Medium: https://osmanesad.medium.com
+ 💼 [LinkedIn](https://www.linkedin.com/in/osmanesad/)
+ 📐 [Behance](https://www.behance.net/osmanesad)
+ 🎨 [ArtStation](https://www.artstation.com/masondase)
+ 📜 [Medium](https://medium.com/@osmanesad)
+ 📷 [VSCO](https://vsco.co/osmanesad/gallery)
+ 📹 [Instagram](https://www.instagram.com/masondase/)
